@@ -7,7 +7,6 @@ bodybuilding, Weight Gain, Weight loss & other Fitness Workout as your bodybuild
 
 - Material mobile UI/UX design.
 - Beautiful Pie, Line, Progress chart.
-- Login with firebase auth(OTP).
 - Workout tracker, Workout schedule.
 - Exercises details with steps UI.
 - Progress photo gallery UI.
